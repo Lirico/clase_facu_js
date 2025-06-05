@@ -9,13 +9,12 @@
 
 
 
-function sumar(a, b){
-    // SCOPE LOCAL (scope del bloque de la funcion) 
+// function sumar(a, b){
+//     // SCOPE LOCAL (scope del bloque de la funcion) 
+//     return a + b 
+// }
 
-    return a + b
-}
+// console.log(b)
 
 
-console.log(sumar(4, 5))
-console.log(sumar())
-
+// console.log(sumar(4, 5))
